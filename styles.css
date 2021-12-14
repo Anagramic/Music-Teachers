@@ -6,3 +6,9 @@ body {
     background-size: cover;
   
 }
+td {
+    background-color: rgba(0, 166, 255, 0.53);
+}
+th {
+    background-color: blueviolet;
+}

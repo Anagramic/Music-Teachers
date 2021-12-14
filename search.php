@@ -37,11 +37,12 @@ Search: <input type="text" name="qir">
 <label for="field">Choose a field:</label>
 <select name="field" id="field"> 
     <option value="teacher.name">Teacher name</option>
-    <option value="lesson.instrument">Instrument</option>
+    <option value="lessons.instrument">Instrument</option>
     <option value="teacher.contact_email">Teacher Email</option>
     <option value="location.location">Location</option>
     
 </select>
 <input type="submit" value="Search">
 </form>
+<a href="home.php"> Home </a>
 </html>

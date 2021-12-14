@@ -32,10 +32,11 @@ if ($result->num_rows > 0) {
 ?> 
 <h2>Add</h2>
 <form action="add.php" method = "post">
-Teacher name: <input type="text" name="name"><br>
-Insrument: <input type="text" name="instrument"><br>
-Email: <input type="text" name="email"><br>
-Location: <input type="text" name="location"><br>
+<tr><td>Teacher name:</td><td><input type="text" name="name"></td><br>
+<tr><td>Instrument: </td><td><input type="text" name="instrument"></td><br>
+<tr><td>Email: </td><td><input type="text" name="email"></td><br>
+<tr><td>Location: </td><td><input type="text" name="location"></td><br>
 <input type="submit" value="Add"><br>
 </form>
+<a href="home.php"> Home </a>
 </html>
