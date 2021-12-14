@@ -1,4 +1,5 @@
 <!doctype html>
+<link rel="stylesheet" href="styles.css">
 <?php
 
     function generateRandomString($length = 32) { //generates a random 32 length string that is then used as a cookie

@@ -1,4 +1,5 @@
 <!doctype html>
+<link rel="stylesheet" href="styles.css">
 
 <?php
 //tests if the cookie is set

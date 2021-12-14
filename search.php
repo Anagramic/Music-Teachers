@@ -1,4 +1,5 @@
 <!doctype html>
+<link rel="stylesheet" href="styles.css">
 <html>
     <h1>Search</h1>
 <?php 

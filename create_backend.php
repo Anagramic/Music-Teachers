@@ -1,4 +1,5 @@
 <!doctype html>
+<link rel="stylesheet" href="styles.css">
 <?php 
 
 $email = $_POST["email"]; //recieves the email

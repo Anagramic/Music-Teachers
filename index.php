@@ -1,4 +1,6 @@
 <!doctype html>
+
+<link rel="stylesheet" href="styles.css">
 <html>
         <h1>Welcome!</h1>
 
