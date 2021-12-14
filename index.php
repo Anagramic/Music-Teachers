@@ -11,7 +11,7 @@
         <p>To get started log in here</p>
         <form action="login.php" method="post">
         Email: <input type="text" name="email"><br>
-        Password: <input type="text" name="password"><br>
+        Password: <input type="password" name="password"><br>
         <input type="submit" value="Log in">
         <br>
         <br>

@@ -47,7 +47,7 @@ if(!isset($_COOKIE[$cookie_name])) {
         <label for="field">Choose a field:</label>
         <select name="field" id="field"> 
             <option value="teacher.name">Teacher name</option>
-            <option value="lesson.instrument">Instrument</option>
+            <option value="lessons.instrument">Instrument</option>
             <option value="teacher.contact_email">Teacher Email</option>
             <option value="location.location">Location</option>
             
